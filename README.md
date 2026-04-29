@@ -1,2 +1,0 @@
-# COMPUTR-NETWORKS
-Assignment purpose
